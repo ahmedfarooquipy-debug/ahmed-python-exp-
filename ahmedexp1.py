@@ -1,0 +1,11 @@
+print("Ahmeed Farooqui")
+print("UIN :- 251P090")
+name = input("What is your name?")
+hobby = input("What's your favourite hobby?")
+food = input("What's your favourite food?")
+
+print("\nHello, "+name+ "!")
+print("it's great that you enjoy " +hobby+ ".")
+print(" Ihope you get to eat some " +food+ "today!")
+print("Have an amazing day, "+name+ "!")
+print("UIN :- 251P090")
